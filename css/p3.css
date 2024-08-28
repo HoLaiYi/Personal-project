@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: "FZSanBao";
-    src: url("/css/FZSanBaoTiFU-Heavy.woff") format("woff");
+    src: url("../css/FZSanBaoTiFU-Heavy.woff") format("woff");
     font-weight: normal;
     font-style: normal;
 }
@@ -125,7 +125,7 @@ p{
 
 .background-image{
     background: linear-gradient(rgba(141, 33, 141, 0.1), rgb(24, 5, 32, 0.9)),
-    url("./pic/p3/Big-Bus.jpg") center/cover no-repeat;
+    url("../pic/p3/Big-Bus.jpg") center/cover no-repeat;
     min-height: 60vh;
     background-color: var(--clr-purple-5);
     display: flex;
